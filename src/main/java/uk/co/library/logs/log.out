@@ -1,0 +1,84 @@
+2022-05-16 08:05:82 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-16 08:05:77 INFO  HomePage :61 - Accepting all cookies : [[ChromeDriver: chrome on WINDOWS (9aa86c133ac7f4dffb2c9faa48a9128b)] -> xpath: //button[@id='save']]
+2022-05-16 08:05:379 INFO  HomePage :67 - Entering Job Title : Tester
+2022-05-16 08:05:810 INFO  HomePage :71 - Entering Location : Harrow
+2022-05-16 08:05:929 INFO  HomePage :76 - Selecting Distance : up to 5 miles
+2022-05-16 08:05:98 INFO  HomePage :80 - Clicking on More Search Options : [[ChromeDriver: chrome on WINDOWS (9aa86c133ac7f4dffb2c9faa48a9128b)] -> id: toggle-hp-search]
+2022-05-16 08:05:450 INFO  HomePage :84 - Entering Min Salary : 30000
+2022-05-16 08:05:549 INFO  HomePage :88 - Entering Max Salary : 500000
+2022-05-16 08:05:610 INFO  HomePage :92 - Selecting Salary Type : Per annum
+2022-05-16 08:05:860 INFO  HomePage :96 - Selecting Job Type : Permanent
+2022-05-16 08:05:26 INFO  HomePage :100 - Clicking on Find Job Button : 
+2022-05-16 08:05:660 INFO  ResultPage :24 - Verifying Test Results: Tester jobs in Harrow on the Hill
+2022-05-16 08:05:815 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-16 08:05:703 INFO  HomePage :61 - Accepting all cookies : [[ChromeDriver: chrome on WINDOWS (0aa1a1f8aad474d0d2c66f609ad9da9b)] -> xpath: //button[@id='save']]
+2022-05-16 08:05:937 INFO  HomePage :67 - Entering Job Title : IT
+2022-05-16 08:05:40 INFO  HomePage :71 - Entering Location : Harrow
+2022-05-16 08:05:156 INFO  HomePage :76 - Selecting Distance : up to 7 miles
+2022-05-16 08:05:245 INFO  HomePage :80 - Clicking on More Search Options : [[ChromeDriver: chrome on WINDOWS (0aa1a1f8aad474d0d2c66f609ad9da9b)] -> id: toggle-hp-search]
+2022-05-16 08:05:412 INFO  HomePage :84 - Entering Min Salary : 401
+2022-05-16 08:05:534 INFO  HomePage :88 - Entering Max Salary : 500
+2022-05-16 08:05:634 INFO  HomePage :92 - Selecting Salary Type : Per day
+2022-05-16 08:05:723 INFO  HomePage :96 - Selecting Job Type : Contract
+2022-05-16 08:05:877 INFO  HomePage :100 - Clicking on Find Job Button : 
+2022-05-16 08:05:700 INFO  ResultPage :24 - Verifying Test Results: It jobs in Harrow on the Hill
+2022-05-16 08:05:879 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-16 08:05:440 INFO  HomePage :61 - Accepting all cookies : [[ChromeDriver: chrome on WINDOWS (72feffdd5109d3543c8f78f6678fff4c)] -> xpath: //button[@id='save']]
+2022-05-16 08:05:734 INFO  HomePage :67 - Entering Job Title : Test Analyst
+2022-05-16 08:05:167 INFO  HomePage :71 - Entering Location : London
+2022-05-16 08:05:244 INFO  HomePage :76 - Selecting Distance : up to 15 miles
+2022-05-16 08:05:429 INFO  HomePage :80 - Clicking on More Search Options : [[ChromeDriver: chrome on WINDOWS (72feffdd5109d3543c8f78f6678fff4c)] -> id: toggle-hp-search]
+2022-05-16 08:05:735 INFO  HomePage :84 - Entering Min Salary : 40001
+2022-05-16 08:05:901 INFO  HomePage :88 - Entering Max Salary : 50000
+2022-05-16 08:05:08 INFO  HomePage :92 - Selecting Salary Type : Per annum
+2022-05-16 08:05:130 INFO  HomePage :96 - Selecting Job Type : Contract
+2022-05-16 08:05:276 INFO  HomePage :100 - Clicking on Find Job Button : 
+2022-05-16 08:05:882 INFO  ResultPage :24 - Verifying Test Results: Contract Test Analyst jobs in London
+2022-05-16 08:05:897 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-16 08:05:472 INFO  HomePage :61 - Accepting all cookies : [[ChromeDriver: chrome on WINDOWS (ad5d44da1a615cfc724407809738f5bf)] -> xpath: //button[@id='save']]
+2022-05-16 08:05:652 INFO  HomePage :67 - Entering Job Title : Tester
+2022-05-16 08:05:227 INFO  HomePage :71 - Entering Location : Watford Hertfordshire
+2022-05-16 08:05:340 INFO  HomePage :76 - Selecting Distance : up to 5 miles
+2022-05-16 08:05:513 INFO  HomePage :80 - Clicking on More Search Options : [[ChromeDriver: chrome on WINDOWS (ad5d44da1a615cfc724407809738f5bf)] -> id: toggle-hp-search]
+2022-05-16 08:05:775 INFO  HomePage :84 - Entering Min Salary : 40001
+2022-05-16 08:05:919 INFO  HomePage :88 - Entering Max Salary : 60000
+2022-05-16 08:05:49 INFO  HomePage :92 - Selecting Salary Type : Per annum
+2022-05-16 08:05:168 INFO  HomePage :96 - Selecting Job Type : Contract
+2022-05-16 08:05:344 INFO  HomePage :100 - Clicking on Find Job Button : 
+2022-05-16 08:05:381 INFO  ResultPage :24 - Verifying Test Results: Contract Tester jobs in Watford
+2022-05-16 08:05:394 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-16 08:05:995 INFO  HomePage :61 - Accepting all cookies : [[ChromeDriver: chrome on WINDOWS (6f7d8f2d8fdac9e76ebd8352da8b1613)] -> xpath: //button[@id='save']]
+2022-05-16 08:05:272 INFO  HomePage :67 - Entering Job Title : Accountant
+2022-05-16 08:05:952 INFO  HomePage :71 - Entering Location : Harrow Weald Greater London
+2022-05-16 08:05:101 INFO  HomePage :76 - Selecting Distance : up to 5 miles
+2022-05-16 08:05:495 INFO  HomePage :80 - Clicking on More Search Options : [[ChromeDriver: chrome on WINDOWS (6f7d8f2d8fdac9e76ebd8352da8b1613)] -> id: toggle-hp-search]
+2022-05-16 08:05:766 INFO  HomePage :84 - Entering Min Salary : 30001
+2022-05-16 08:05:868 INFO  HomePage :88 - Entering Max Salary : 60000
+2022-05-16 08:05:912 INFO  HomePage :92 - Selecting Salary Type : Per annum
+2022-05-16 08:05:41 INFO  HomePage :96 - Selecting Job Type : Permanent
+2022-05-16 08:05:187 INFO  HomePage :100 - Clicking on Find Job Button : 
+2022-05-16 08:05:295 INFO  ResultPage :24 - Verifying Test Results: Permanent Accountant jobs in Harrow Weald
+2022-05-16 08:05:293 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-16 08:05:931 INFO  HomePage :61 - Accepting all cookies : [[ChromeDriver: chrome on WINDOWS (432aaedef7cb05aef3607dd2ff3a065d)] -> xpath: //button[@id='save']]
+2022-05-16 08:05:237 INFO  HomePage :67 - Entering Job Title : Retail Manager
+2022-05-16 08:05:665 INFO  HomePage :71 - Entering Location : West London
+2022-05-16 08:05:783 INFO  HomePage :76 - Selecting Distance : up to 10 miles
+2022-05-16 08:05:958 INFO  HomePage :80 - Clicking on More Search Options : [[ChromeDriver: chrome on WINDOWS (432aaedef7cb05aef3607dd2ff3a065d)] -> id: toggle-hp-search]
+2022-05-16 08:05:252 INFO  HomePage :84 - Entering Min Salary : 35001
+2022-05-16 08:05:418 INFO  HomePage :88 - Entering Max Salary : 50000
+2022-05-16 08:05:562 INFO  HomePage :92 - Selecting Salary Type : Per annum
+2022-05-16 08:05:673 INFO  HomePage :96 - Selecting Job Type : Permanent
+2022-05-16 08:05:811 INFO  HomePage :100 - Clicking on Find Job Button : 
+2022-05-16 08:05:978 INFO  ResultPage :24 - Verifying Test Results: Permanent Retail Manager jobs in West London
+2022-05-16 08:05:977 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-16 08:05:450 INFO  HomePage :61 - Accepting all cookies : [[ChromeDriver: chrome on WINDOWS (91bb0a262f77ed92f9abc17d029a14a0)] -> xpath: //button[@id='save']]
+2022-05-16 08:05:744 INFO  HomePage :67 - Entering Job Title : Automation Tester
+2022-05-16 08:05:185 INFO  HomePage :71 - Entering Location : London
+2022-05-16 08:05:294 INFO  HomePage :76 - Selecting Distance : up to 7 miles
+2022-05-16 08:05:468 INFO  HomePage :80 - Clicking on More Search Options : [[ChromeDriver: chrome on WINDOWS (91bb0a262f77ed92f9abc17d029a14a0)] -> id: toggle-hp-search]
+2022-05-16 08:05:753 INFO  HomePage :84 - Entering Min Salary : 301
+2022-05-16 08:05:936 INFO  HomePage :88 - Entering Max Salary : 500
+2022-05-16 08:05:34 INFO  HomePage :92 - Selecting Salary Type : Per day
+2022-05-16 08:05:147 INFO  HomePage :96 - Selecting Job Type : Contract
+2022-05-16 08:05:316 INFO  HomePage :100 - Clicking on Find Job Button : 
+2022-05-16 08:05:394 INFO  ResultPage :24 - Verifying Test Results: Contract Automation Tester jobs in London
